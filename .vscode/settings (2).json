@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "tty.h": "c",
-        "stdint.h": "c"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
-}
