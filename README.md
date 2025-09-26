@@ -58,7 +58,7 @@ Nucleo/
 ## Building the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TejasDsouza7/Nucleo.git
+   git clone https://github.com/Tejasdsouza/Nucleo.git
    cd Nucleo
    ```
 2. Build the kernel:
